@@ -4,7 +4,7 @@
 
 ## To Do
 
-- [ ] Final project idea
+- [x] Final project idea
 - [ ] Protocols Selection
 - [ ] Skills Required
 - [ ] Ui/Ux Website Design
