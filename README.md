@@ -5,21 +5,21 @@
 ## To Do
 
 - [x] Final project idea
-- [ ] Protocols Selection
-- [ ] Skills Required
+- [x] Protocols Selection
+- [x] Skills Required
 - [ ] Ui/Ux Website Design
 - [ ] Step by Step Procedure
 - [ ] Daily Tasks
 
 ## Protocols
 
-- [ ] Filecoin
+- [x] Filecoin
 - [ ] Mantle
-- [ ] Chainlink
+- [x] Chainlink
 - [ ] Superfluid
 - [ ] QuickNode
-- [ ] Push Protocol
-- [ ] ConsenSys
+- [x] Push Protocol
+- [x] ConsenSys
 
 ## API Call of Government Schemes
 
