@@ -20,3 +20,7 @@
 - [ ] QuickNode
 - [ ] Push Protocol
 - [ ] ConsenSys
+
+## API Call of Government Schemes
+
+- [Click](https://apisetu.gov.in/api/directory#!#Central%20Government)
