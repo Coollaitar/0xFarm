@@ -5,6 +5,7 @@ pragma solidity ^0.8.0;
 
 contract insurance{
     address public owner;
+    owner = msg.sender;
 
     struct person{
         
