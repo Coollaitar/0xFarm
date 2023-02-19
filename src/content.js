@@ -1,0 +1,36 @@
+const productData = [
+  {
+    id: 1,
+    name: 'Owner-Name',
+    location: 'Satara',
+    image: 'l1.jpg',
+    productType: 'landFarming',
+    price: 120,
+    totalTokens: 302,
+    landArea: 2000,
+    rating: 4,
+  },
+  {
+    id: 2,
+    name: 'Owner-Name',
+    location: 'Satara',
+    image: 'l2.jpg',
+    productType: 'landFarming',
+    price: 169,
+    totalTokens: 1230,
+    landArea: 2000,
+    rating: 5,
+  },
+  {
+    id: 3,
+    name: 'Owner-Name',
+    location: 'Satara',
+    image: 'l3.jpg',
+    productType: 'landFarming',
+    price: 170,
+    totalTokens: 1009,
+    landArea: 2000,
+    rating: 4,
+  },
+];
+export default productData;
