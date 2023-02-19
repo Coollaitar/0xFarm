@@ -1,6 +1,6 @@
-# 0xFarm
+# **0xFarm**
 
-## Problem it solves:
+## 🔓Problem it solves:
 
 A peer to peer lending dApp for farmers, by the farmers, for the farmers, of the farmer solve the following problems :
 
@@ -9,11 +9,11 @@ A peer to peer lending dApp for farmers, by the farmers, for the farmers, of the
 3. **𝐈𝐧𝐜𝐫𝐞𝐚𝐬𝐞𝐝 𝐓𝐫𝐚𝐧𝐬𝐩𝐚𝐫𝐞𝐧𝐜𝐲** : We increase transparency in lending process.
 4. **𝐅𝐥𝐞𝐱𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐢𝐧 𝐫𝐞𝐩𝐚𝐲𝐦𝐞𝐧𝐭** : 0xFarm offers great flexibility in repayment of loans.
 
-## Challenges we ran into:
+## ⛔Challenges we ran into:
 
 We ran into problems regarding integration due to improper docuementation
 
-## Technologies we used:
+## ⚙️Technologies we used:
 
 - [x] Solidity
 - [x] Javascript
@@ -22,22 +22,22 @@ We ran into problems regarding integration due to improper docuementation
 - [x] React.js
 - [x] Hardhat
 
-## Platforms this project is built for:
+## 🌐Platforms this project is built for:
 
 - [x] Web
 
-## Protocol Used:
+## 🪧Protocol Used:
 
 - [x] Arcana
 - [x] Push Protocol
 
-## Reason for using **Arcana**:
+## 🔦Reason for using **Arcana**:
 
 We have implemented **Arcana** auth for easy onboarding of users on our Dapp.
 The user can seamlessly log in to our app using Arcana auth even if he doesn't have Wallet.
 We have used Arcana AuthSDK Rainbowkit Connector for our dApp for users to connect to dApp using Arcana.
 
-## Reason for using Push Protocol:
+## 🔦Reason for using Push Protocol:
 
 **0xFarm** has integrated the Push protocol for chatting with farmers and receiving notifications into dApp.
 **𝐏𝐮𝐬𝐡 𝐂𝐡𝐚𝐭** :
