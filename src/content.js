@@ -1,8 +1,8 @@
 const productData = [
   {
     id: 1,
-    name: 'Owner-Name',
-    location: 'Satara',
+    name: 'Devashish Gaikwad',
+    location: 'Jalna',
     image: 'l1.jpg',
     productType: 'landFarming',
     price: 120,
@@ -12,8 +12,8 @@ const productData = [
   },
   {
     id: 2,
-    name: 'Owner-Name',
-    location: 'Satara',
+    name: 'Prasad Reddy',
+    location: 'Kakinada',
     image: 'l2.jpg',
     productType: 'landFarming',
     price: 169,
@@ -23,8 +23,8 @@ const productData = [
   },
   {
     id: 3,
-    name: 'Owner-Name',
-    location: 'Satara',
+    name: 'Anitha R K',
+    location: 'Jogipeth',
     image: 'l3.jpg',
     productType: 'landFarming',
     price: 170,
