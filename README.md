@@ -49,3 +49,5 @@ When a lender lends money, he gets a notification about land. Also, the borrower
 
 We have used pushprotocol/uiembed for Notifications
 And @pushprotocol/uiweb as well as @pushprotocol/restapi for integrating push chat
+
+<img src="https://github.com/Coollaitar/0xFarm/blob/main/Images/layout.png" width="1000" height="550" />
