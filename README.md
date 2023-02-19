@@ -1,5 +1,6 @@
 # **0xFarm**
 
+<img src="https://github.com/Coollaitar/0xFarm/blob/main/Images/0xfarm%20logo.png" width="1000" height="550" />
 ## 🔓Problem it solves:
 
 A peer to peer lending dApp for farmers, by the farmers, for the farmers, of the farmer solve the following problems :
