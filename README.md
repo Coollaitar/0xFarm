@@ -7,7 +7,7 @@
 A peer to peer lending dApp for farmers, by the farmers, for the farmers, of the farmer solve the following problems :
 
 1. **𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐧𝐠** : 0xFarm provided farmers with access to financing that they may not be able to obtain from traditional financial institutions by tokenizing the 𝐟𝐚𝐫𝐦𝐞𝐫'𝐬 𝐚𝐬𝐬𝐞𝐭𝐬.
-2. **𝐋𝐨𝐰𝐞𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐑𝐚𝐭𝐞𝐬** : 0xFarm potentially offers lower intrest rates thatn traditional banks.
+2. **𝐋𝐨𝐰𝐞𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐑𝐚𝐭𝐞𝐬** : 0xFarm potentially offers lower intrest rates that traditional banks.
 3. **𝐈𝐧𝐜𝐫𝐞𝐚𝐬𝐞𝐝 𝐓𝐫𝐚𝐧𝐬𝐩𝐚𝐫𝐞𝐧𝐜𝐲** : We increase transparency in lending process.
 4. **𝐅𝐥𝐞𝐱𝐢𝐛𝐢𝐥𝐢𝐭𝐲 𝐢𝐧 𝐫𝐞𝐩𝐚𝐲𝐦𝐞𝐧𝐭** : 0xFarm offers great flexibility in repayment of loans.
 
